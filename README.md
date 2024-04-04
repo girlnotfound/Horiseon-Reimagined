@@ -14,4 +14,4 @@
 
 This project was made possible with the help of:
 
-- Jordan Gonzales <!-- Insert link to their GitHub profile -->
+[Jordan Gonzales](https://github.com/JordanGWiz)
