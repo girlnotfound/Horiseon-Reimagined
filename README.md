@@ -21,3 +21,5 @@
 This project was made possible with the help of:
 
 [Jordan Gonzales](https://github.com/JordanGWiz)
+
+[Adam Rosenberg](https://github.com/AcoderRose)
