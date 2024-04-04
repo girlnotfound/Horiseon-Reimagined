@@ -10,6 +10,8 @@
 
 - I examined the icon and image elements, and attached alt descriptions to the images.
 
+- I organized the CSS by consolidating selectors and properties, ensuring it follows a semantic structure. Additionally I included comments for clarity in the CSS.
+
 ## Collaborators
 
 This project was made possible with the help of:
