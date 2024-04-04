@@ -14,7 +14,7 @@
 
 ## Usage
 
-![Sceenshot of Horiseon Webpage](./assets/images/screenshot.png)
+![Sceenshot of Horiseon Webpage](./assets/images/Screenshot.png)
 
 ## Collaborators
 
