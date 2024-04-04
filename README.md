@@ -8,6 +8,8 @@
 
 - When inspecting the HTML structure, I found that the elements are arranged in a logical structure.
 
+- I examined the icon and image elements, and attached alt descriptions to the images.
+
 ## Collaborators
 
 This project was made possible with the help of:
