@@ -19,6 +19,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Consolidated navigation header class and removed extra css */ 
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -33,6 +34,7 @@ body {
     list-style-type: none;
     }
 
+/* Removed h1 class and targeted h1 element */
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -47,6 +49,7 @@ p {
     font-size: 16px;
 }
 
+/* Removed footer class, targeted footer element */
 footer {
     padding: 30px;
     clear: both;
@@ -90,6 +93,7 @@ footer {
     background-color: #2589bd;
 }
 
+/* Consolidated benefit-lead class and removed extra css */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -105,7 +109,7 @@ footer {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Consolidated Optimization Class and removed extra css */ 
 .optimization {
     margin-bottom: 20px;
     padding: 50px;
