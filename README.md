@@ -18,7 +18,7 @@
 
 ![Link to GitHub Repository](https://github.com/girlnotfound/Horiseon-Reimagined)
 
-![Link to Deployed Website](https://girlnotfound.github.io/Horiseon-Reimagined/)
+![Link to Deployed Website](https://girlnotfound.github.io/Horiseon-Reimagined)
 
 ## Collaborators
 
